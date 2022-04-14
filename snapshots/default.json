@@ -33,31 +33,31 @@
     "commit": "e302658"
   },
   "gitsigns.nvim": {
-    "commit": "f2e9e30"
+    "commit": "a6a772d"
   },
   "lua-dev.nvim": {
     "commit": "a0ee777"
   },
   "lualine.nvim": {
-    "commit": "385580e"
+    "commit": "63f74ac"
   },
   "nlsp-settings.nvim": {
-    "commit": "21a00be"
+    "commit": "98b70d9"
   },
   "null-ls.nvim": {
     "commit": "82be4bf"
   },
   "nvim-autopairs": {
-    "commit": "6fb0479"
+    "commit": "38d486a"
   },
   "nvim-cmp": {
-    "commit": "3192a0c"
+    "commit": "b5433f9"
   },
   "nvim-dap": {
-    "commit": "10b5781"
+    "commit": "77202bd"
   },
   "nvim-lsp-installer": {
-    "commit": "39f84cd"
+    "commit": "9993586"
   },
   "nvim-lspconfig": {
     "commit": "fd7843a"
@@ -69,7 +69,7 @@
     "commit": "477536c"
   },
   "nvim-treesitter": {
-    "commit": "05ba924"
+    "commit": "94f19ca"
   },
   "nvim-ts-context-commentstring": {
     "commit": "8834375"
@@ -84,7 +84,7 @@
     "commit": "4dedd3b"
   },
   "plenary.nvim": {
-    "commit": "13f9959"
+    "commit": "78dde9b"
   },
   "popup.nvim": {
     "commit": "b7404d3"
